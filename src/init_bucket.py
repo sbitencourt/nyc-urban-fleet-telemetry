@@ -1,4 +1,4 @@
-from utils import get_s3_client, get_bucket_name
+from utils.utils import get_s3_client, get_bucket_name
 
 FOLDERS = ['bronze', 'silver', 'gold']
 
