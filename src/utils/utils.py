@@ -4,7 +4,7 @@ def get_bucket_name():
     """
     This function returns the bucket name.
     """
-    return "nyc-tlc-trips-data-lake--use2-az1--x-s3"
+    return "nyc-tlc-trips-data-lake"
 
 def get_s3_client():
     """
